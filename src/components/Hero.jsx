@@ -1,4 +1,4 @@
-import heroBg from "../assets/background.png";
+import heroBg from "../assets/CHAMBER2.png";
 import logo from "../assets/EsacciLogo.png";
 const Hero = () => {
 
@@ -14,11 +14,12 @@ const Hero = () => {
       <div className="hero-content">
         <img src={logo} alt="Logo" className="hero-logo" />
 
-        <h1>ESACCI</h1>
-        <p>Eastern and Southern Africa Chamber of Commerce and Industry</p>
-
+        <h1>CESACI</h1>
+        <p><h3>Chamber of East & SADC Countries</h3></p>
+        <br/><p>Connecting East Africa & SADC for Trade, Investment & Growth</p>
+        <br/>
         <div className="cta-wrapper">
-          <button className="cta-btn">Become a Member</button>
+          <a href="#membership"> <button className="cta-btn">Become a Member</button></a>
 
           {/* Animated arrows */}
           <div className="arrow-container">

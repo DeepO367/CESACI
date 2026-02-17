@@ -16,7 +16,7 @@ const Navbar = () => {
     <nav className={`navbar ${scrolled ? "scrolled" : ""}`}>
       <div className="nav-wrapper">
         <div className="logo-text">
-          <span className="logo-green">ESACCI</span>
+          <span className="logo-green">CESACI</span>
         </div>
 
         <div className={`nav-links ${open ? "open" : ""}`}>
@@ -24,7 +24,7 @@ const Navbar = () => {
           <a href="#about">About</a>
           <a href="#benefits">Membership Benefits</a>
           <a href="#vision">Vision & Mission</a>
-          <a href="#">Contact</a>
+          <a href="#contact">Contact</a>
         </div>
 
         <div
