@@ -58,12 +58,12 @@ export default function Directors() {
                         bio="As a dedicated Director on the Chamber of Commerce, I bring a strong foundation in administration and operations, driving strategic growth and organizational efficiency. With a proven ability to streamline processes, manage complex initiatives, and lead cross-functional teams, I am committed to advancing the Chamber’s mission while ensuring operational excellence. My focus on governance, compliance, and member service ensures that our programs and partnerships are delivered with integrity, impact, and sustainability. Passionate about local business development, I work collaboratively with stakeholders to foster a vibrant, inclusive, and thriving business community."
                     />
 
-                    <DirectorCard
+                    {/* <DirectorCard
                         image="./images/Siwa2.png"
                         name="Siwapiwe Mpondonkulu"
                         position="Finance Director"
                         bio="Siwapiwe is a finance professional with a background in Investment Management. She holds ACMA and CGMA designations from the Chartered Institute of Management Accountants (CIMA) and contributes strong financial governance and strategic investment oversight."
-                    />
+                    /> */}
 
                     <DirectorCard
                         image="./images/shadrack.jpeg"
